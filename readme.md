@@ -2,6 +2,8 @@
 ### Gameboy Emulator written in C# that can run Pokemon
 > Note: This was just an experimental project, and is by no means feature complete or optimised.
 
+> Showcase: https://youtu.be/L1zPabmKP90
+
 ## Controlls
 - Start: E
 - Select: Q
